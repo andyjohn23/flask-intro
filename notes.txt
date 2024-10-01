@@ -1,0 +1,11 @@
+monolithic vs microservice
+monolithic - tightly coupled
+microservice - 
+
+flask - library/package
+virtual, activate, source <name_of_virtual_env>/bin/activate
+wsgi
+routing, views
+template engine, jinja
+
+if __name__ == '__main__'
